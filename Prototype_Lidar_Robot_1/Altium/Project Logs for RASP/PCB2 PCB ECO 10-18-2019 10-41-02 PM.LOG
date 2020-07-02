@@ -1,0 +1,4 @@
+Added Component: Designator=USB0(USB-A-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "USB"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component USB0 USB-S

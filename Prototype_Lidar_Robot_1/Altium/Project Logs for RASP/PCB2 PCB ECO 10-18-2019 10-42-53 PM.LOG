@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=MD? NewDesignator=MD0
+Added Pin To Net: NetName=VCC Pin=USB0-1
+Added Pin To Net: NetName=GND Pin=USB0-4

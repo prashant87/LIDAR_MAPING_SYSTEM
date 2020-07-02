@@ -1,0 +1,5 @@
+Added Component: Designator=FAN0(FAN DC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=FAN0-GND
+Added Pin To Net: NetName=VCC Pin=FAN0-VCC
+Added Member To Class: ClassName=Sheet1 Member=Component FAN0 24*24mm

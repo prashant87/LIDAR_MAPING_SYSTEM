@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P0 Old Footprint=MHDR2X20 New Footprint=HDR2X20
+Change Component Comment : Designator=P0 Old Comment=MHDR2X20 New Comment=Header 20X2
+Added Member To Class: ClassName=Sheet1 Member=Component P0 Header 20X2

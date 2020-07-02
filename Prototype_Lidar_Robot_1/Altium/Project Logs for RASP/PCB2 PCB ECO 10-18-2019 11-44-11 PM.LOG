@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=3.3v Pin=P0-1
+Removed Pin From Net: NetName=5v Pin=P0-2
+Removed Pin From Net: NetName=GPIO02 Pin=P0-3
+Removed Pin From Net: NetName=5v Pin=P0-4
+Removed Pin From Net: NetName=GPIO03 Pin=P0-5
+Removed Pin From Net: NetName=GND Pin=P0-6
+Removed Pin From Net: NetName=GPIO04 Pin=P0-7
+Removed Pin From Net: NetName=GPIO14 Pin=P0-8
+Removed Pin From Net: NetName=GND Pin=P0-9
+Removed Pin From Net: NetName=GPIO15 Pin=P0-10
+Removed Pin From Net: NetName=GPIO17 Pin=P0-11
+Removed Pin From Net: NetName=GPIO18 Pin=P0-12
+Removed Pin From Net: NetName=GPIO27 Pin=P0-13
+Removed Pin From Net: NetName=GND Pin=P0-14
+Removed Pin From Net: NetName=GPIO22 Pin=P0-15
+Removed Pin From Net: NetName=GPIO23 Pin=P0-16
+Removed Pin From Net: NetName=3.3v Pin=P0-17
+Removed Pin From Net: NetName=GPIO24 Pin=P0-18
+Removed Pin From Net: NetName=GPIO10 Pin=P0-19
+Removed Pin From Net: NetName=GND Pin=P0-20
+Removed Pin From Net: NetName=GPIO09 Pin=P0-21
+Removed Pin From Net: NetName=GPIO25 Pin=P0-22
+Removed Pin From Net: NetName=GPIO11 Pin=P0-23
+Removed Pin From Net: NetName=GPIO08 Pin=P0-24
+Removed Pin From Net: NetName=GND Pin=P0-25
+Removed Pin From Net: NetName=GPIO07 Pin=P0-26
+Removed Pin From Net: NetName=ID_SD Pin=P0-27
+Removed Pin From Net: NetName=ID_SC Pin=P0-28
+Removed Pin From Net: NetName=GPIO05 Pin=P0-29
+Removed Pin From Net: NetName=GND Pin=P0-30
+Removed Pin From Net: NetName=GPIO06 Pin=P0-31
+Removed Pin From Net: NetName=GPIO12 Pin=P0-32
+Removed Pin From Net: NetName=GPIO13 Pin=P0-33
+Removed Pin From Net: NetName=GND Pin=P0-34
+Removed Pin From Net: NetName=GPIO19 Pin=P0-35
+Removed Pin From Net: NetName=GPIO16 Pin=P0-36
+Removed Pin From Net: NetName=GPIO26 Pin=P0-37
+Removed Pin From Net: NetName=GPIO20 Pin=P0-38
+Removed Pin From Net: NetName=GND Pin=P0-39
+Removed Pin From Net: NetName=GPIO21 Pin=P0-40
+Removed Member From Class: ClassName=Sheet1 Member=P0
+Added Component: Designator=C0(J20-C2T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62004021121"; VariantName = "[No Variations]"

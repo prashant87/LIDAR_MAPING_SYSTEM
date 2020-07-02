@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO23 Pin=MD1-2
+Removed Pin From Net: NetName=GPIO24 Pin=MD1-3
+Removed Pin From Net: NetName=GPIO08 Pin=MD1-4
+Removed Pin From Net: NetName=GPIO07 Pin=MD1-5
+Added Pin To Net: NetName=GPIO05 Pin=MD1-2
+Added Pin To Net: NetName=GPIO06 Pin=MD1-3
+Added Pin To Net: NetName=GPIO13 Pin=MD1-4
+Added Pin To Net: NetName=GPIO19 Pin=MD1-5
+Added Member To Class: ClassName=Sheet1 Member=Component MD0 ADJ
+Added Room: Name=Sheet1

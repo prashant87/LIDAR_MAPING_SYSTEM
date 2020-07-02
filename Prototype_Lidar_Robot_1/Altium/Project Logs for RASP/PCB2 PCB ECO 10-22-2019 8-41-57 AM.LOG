@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12_1 Pin=JDC1-1
+Removed Pin From Net: NetName=+12 Pin=JDC-1
+Added Component: Designator=D0(D5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D5A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=D0-2
+Added Pin To Net: NetName=+12_1 Pin=D1-2
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=JDC-1
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=JDC1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet1 Member=Component D0 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component D1 1N5408
+Added Room: Name=Sheet1

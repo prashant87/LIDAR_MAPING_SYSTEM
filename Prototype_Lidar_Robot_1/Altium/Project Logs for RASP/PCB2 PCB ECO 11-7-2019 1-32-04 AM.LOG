@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=FAN0-GND
+Removed Pin From Net: NetName=VCC Pin=FAN0-VCC
+Change Component Footprint: Designator=MD0 Old Footprint=LM2596-ADJ New Footprint=XL4005
+Change Component Comment : Designator=MD0 Old Comment=ADJ New Comment=Adjust Voltage (5A)
+Added Pin To Net: NetName=VCC Pin=P0-4
+Added Pin To Net: NetName=GND Pin=P0-6
+Added Room: Name=Sheet1

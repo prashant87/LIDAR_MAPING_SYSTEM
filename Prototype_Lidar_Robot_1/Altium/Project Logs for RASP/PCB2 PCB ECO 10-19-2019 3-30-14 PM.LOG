@@ -1,0 +1,7 @@
+Added Component: Designator=USB0(USB-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "USB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=USB0-1
+Added Pin To Net: NetName=GND Pin=USB0-4
+Added Member To Class: ClassName=Sheet1 Member=Component USB0 USB-S
+Added Room: Name=Sheet1
