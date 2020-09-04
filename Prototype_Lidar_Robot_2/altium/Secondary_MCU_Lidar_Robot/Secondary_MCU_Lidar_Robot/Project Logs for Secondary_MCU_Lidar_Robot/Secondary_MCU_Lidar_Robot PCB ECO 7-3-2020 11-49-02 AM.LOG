@@ -1,0 +1,12 @@
+Added Component: Designator=JP_MOTOR_SIGNAL(CON4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C1/A1 Pin=JP_MOTOR_SIGNAL-4
+Added Net: Name=C1/A1
+Added Pin To Net: NetName=C1/A2 Pin=JP_MOTOR_SIGNAL-2
+Added Net: Name=C1/A2
+Added Pin To Net: NetName=C2/B1 Pin=JP_MOTOR_SIGNAL-3
+Added Net: Name=C2/B1
+Added Pin To Net: NetName=C2/B2 Pin=JP_MOTOR_SIGNAL-1
+Added Net: Name=C2/B2
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component JP_MOTOR_SIGNAL JP4

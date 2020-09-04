@@ -1,0 +1,8 @@
+Added Component: Designator=SD0(DIP4/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW - DIP2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJDC_JETSON_1 Pin=SD0-1
+Added Pin To Net: NetName=NetJDC_MOTOR_1 Pin=SD0-2
+Added Pin To Net: NetName=NetJP?_1 Pin=SD0-3
+Added Pin To Net: NetName=NetMD_JETSON_0 Pin=SD0-4
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component SD0 SW - DIP2

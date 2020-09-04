@@ -1,0 +1,24 @@
+Added Component: Designator=F_JETSON(FUSE2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F_MOTOR(FUSE2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF_JETSON_1 Pin=F_JETSON-1
+Added Pin To Net: NetName=NetF_JETSON_1 Pin=JDC_JETSON-1
+Added Net: Name=NetF_JETSON_1
+Added Pin To Net: NetName=NetF_JETSON_2 Pin=F_JETSON-2
+Added Pin To Net: NetName=NetF_JETSON_2 Pin=JP_POWER-5
+Added Net: Name=NetF_JETSON_2
+Added Pin To Net: NetName=NetF_MOTOR_1 Pin=F_MOTOR-1
+Added Pin To Net: NetName=NetF_MOTOR_1 Pin=JDC_MOTOR-1
+Added Net: Name=NetF_MOTOR_1
+Added Pin To Net: NetName=NetF_MOTOR_2 Pin=F_MOTOR-2
+Added Pin To Net: NetName=NetF_MOTOR_2 Pin=JP_POWER-2
+Added Net: Name=NetF_MOTOR_2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component F_JETSON F1A_5A
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component F_MOTOR F1A_5A
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component USB_LIDAR USB-S
+Added Room: Name=Lidar_Robot_Power

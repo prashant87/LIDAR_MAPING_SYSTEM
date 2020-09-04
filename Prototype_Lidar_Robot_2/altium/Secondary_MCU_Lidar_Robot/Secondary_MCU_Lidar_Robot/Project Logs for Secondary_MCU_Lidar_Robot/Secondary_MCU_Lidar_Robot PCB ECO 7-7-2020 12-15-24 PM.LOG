@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=HD_5V NewDesignator=HD_5V_IN
+Added Component: Designator=HD_5V_OUT(HED2T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD_5V_OUT-1
+Added Pin To Net: NetName=5V Pin=HD_5V_OUT-2
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component HD_5V_OUT Header 2
+Added Room: Name=Secondary_MCU_Lidar_Robot

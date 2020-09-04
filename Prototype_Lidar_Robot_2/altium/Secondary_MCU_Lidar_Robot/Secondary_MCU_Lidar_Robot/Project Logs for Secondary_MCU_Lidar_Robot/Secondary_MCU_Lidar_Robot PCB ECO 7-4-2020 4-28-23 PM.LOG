@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=HD_5V Old Footprint=HED2 New Footprint=HED2T
+Added Room: Name=Secondary_MCU_Lidar_Robot

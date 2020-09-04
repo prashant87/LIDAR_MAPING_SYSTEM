@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=USB_JETSON-4
+Added Pin To Net: NetName=5V Pin=USB_LIDAR-1
+Added Pin To Net: NetName=GND Pin=USB_LIDAR-4
+Added Pin To Net: NetName=NetUSB_JETSON_2 Pin=USB_JETSON-2
+Added Pin To Net: NetName=NetUSB_JETSON_2 Pin=USB_LIDAR-2
+Added Net: Name=NetUSB_JETSON_2
+Added Pin To Net: NetName=NetUSB_JETSON_3 Pin=USB_JETSON-3
+Added Pin To Net: NetName=NetUSB_JETSON_3 Pin=USB_LIDAR-3
+Added Net: Name=NetUSB_JETSON_3

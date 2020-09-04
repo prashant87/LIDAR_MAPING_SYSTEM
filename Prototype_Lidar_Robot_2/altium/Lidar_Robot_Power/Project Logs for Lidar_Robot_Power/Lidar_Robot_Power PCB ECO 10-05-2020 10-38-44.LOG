@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=JP_GND-1
+Removed Pin From Net: NetName=GND Pin=JP_GND-2
+Removed Pin From Net: NetName=GND Pin=JP_GND-3
+Removed Pin From Net: NetName=GND Pin=JP_GND-4
+Removed Pin From Net: NetName=GND Pin=JP_GND-5
+Removed Member From Class: ClassName=Lidar_Robot_Power Member=JP_GND

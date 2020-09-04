@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=MD0 NewDesignator=MPU6050
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component ARDUINO_MEGA2560_REV3_-_RETAIL
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component H_Bridge1 H_Bridge
+Added Room: Name=Secondary_MCU_Lidar_Robot

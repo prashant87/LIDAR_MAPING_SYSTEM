@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\DoAn2\altium\Lidar_Robot_Power\Lidar_Robot_Power.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lidar_robot_power-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lidar_robot_power-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,56 @@
+Added Component: Designator=MD0(MPU6050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPU_JUMP(HDR2X8_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MD0-7
+Added Pin To Net: NetName=5V Pin=MD0-8
+Added Pin To Net: NetName=A0 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD0
+Added Pin To Net: NetName=A0 Pin=ARDUINO_NANO-19
+Added Pin To Net: NetName=A0 Pin=MPU_JUMP-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD1
+Added Pin To Net: NetName=A1 Pin=ARDUINO_NANO-20
+Added Pin To Net: NetName=A1 Pin=MPU_JUMP-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD2
+Added Pin To Net: NetName=A2 Pin=ARDUINO_NANO-21
+Added Pin To Net: NetName=A2 Pin=MPU_JUMP-3
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD3
+Added Pin To Net: NetName=A3 Pin=ARDUINO_NANO-22
+Added Pin To Net: NetName=A3 Pin=MPU_JUMP-4
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD4
+Added Pin To Net: NetName=A4 Pin=ARDUINO_NANO-23
+Added Pin To Net: NetName=A4 Pin=MPU_JUMP-5
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD5
+Added Pin To Net: NetName=A5 Pin=ARDUINO_NANO-24
+Added Pin To Net: NetName=A5 Pin=MPU_JUMP-6
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD6
+Added Pin To Net: NetName=A6 Pin=ARDUINO_NANO-25
+Added Pin To Net: NetName=A6 Pin=MPU_JUMP-7
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=ARDUINO_MEGA2560_REV3_-_RETAIL-AD7
+Added Pin To Net: NetName=A7 Pin=ARDUINO_NANO-26
+Added Pin To Net: NetName=A7 Pin=MPU_JUMP-8
+Added Net: Name=A7
+Added Pin To Net: NetName=SCL Pin=MD0-6
+Added Pin To Net: NetName=SCL Pin=MPU_JUMP-9
+Added Pin To Net: NetName=SCL Pin=MPU_JUMP-11
+Added Pin To Net: NetName=SCL Pin=MPU_JUMP-13
+Added Pin To Net: NetName=SCL Pin=MPU_JUMP-15
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=MD0-5
+Added Pin To Net: NetName=SDA Pin=MPU_JUMP-10
+Added Pin To Net: NetName=SDA Pin=MPU_JUMP-12
+Added Pin To Net: NetName=SDA Pin=MPU_JUMP-14
+Added Pin To Net: NetName=SDA Pin=MPU_JUMP-16
+Added Net: Name=SDA
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component MD0 MPU6050
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component MPU_JUMP Header 8X2A
+Added Room: Name=Secondary_MCU_Lidar_Robot

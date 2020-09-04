@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Secondary_MCU_Lidar_Robot.PrjPcb]
+   Generated File[Secondary_MCU_Lidar_Robot.TXT]
+   Generated File[Secondary_MCU_Lidar_Robot.LDP]
+   Generated File[Secondary_MCU_Lidar_Robot.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:26:45 PM On 7/7/2020

@@ -1,0 +1,74 @@
+Added Component: Designator=JDC_JETSON(DC-IN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JDC_MOTOR(DC-IN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JP_5V(CON5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Component: Designator=JP_12V(CON5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Component: Designator=JP_FAN(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP_GND1(CON5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Component: Designator=JP_GND(CON5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Component: Designator=JP_POWER(CON6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=MD_JETSON(XL4005)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJDC_JETSON_1 Pin=JDC_JETSON-1
+Added Pin To Net: NetName=GND Pin=JDC_JETSON-2
+Added Pin To Net: NetName=GND Pin=JDC_MOTOR-2
+Added Pin To Net: NetName=GND Pin=JP_FAN-1
+Added Pin To Net: NetName=GND Pin=JP_GND1-1
+Added Pin To Net: NetName=GND Pin=JP_GND1-2
+Added Pin To Net: NetName=GND Pin=JP_GND1-3
+Added Pin To Net: NetName=GND Pin=JP_GND1-4
+Added Pin To Net: NetName=GND Pin=JP_GND1-5
+Added Pin To Net: NetName=GND Pin=JP_GND-1
+Added Pin To Net: NetName=GND Pin=JP_GND-2
+Added Pin To Net: NetName=GND Pin=JP_GND-3
+Added Pin To Net: NetName=GND Pin=JP_GND-4
+Added Pin To Net: NetName=GND Pin=JP_GND-5
+Added Pin To Net: NetName=NetJDC_JETSON_1 Pin=JP_POWER-5
+Added Pin To Net: NetName=GND Pin=MD_JETSON-1
+Added Pin To Net: NetName=GND Pin=MD_JETSON-3
+Added Pin To Net: NetName=5V Pin=JP_5V-1
+Added Pin To Net: NetName=5V Pin=JP_5V-2
+Added Pin To Net: NetName=5V Pin=JP_5V-3
+Added Pin To Net: NetName=5V Pin=JP_5V-4
+Added Pin To Net: NetName=5V Pin=JP_5V-5
+Added Pin To Net: NetName=5V Pin=MD_JETSON-2
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=JP_12V-1
+Added Pin To Net: NetName=12V Pin=JP_12V-2
+Added Pin To Net: NetName=12V Pin=JP_12V-3
+Added Pin To Net: NetName=12V Pin=JP_12V-4
+Added Pin To Net: NetName=12V Pin=JP_12V-5
+Added Pin To Net: NetName=12V Pin=JP_FAN-2
+Added Pin To Net: NetName=12V Pin=JP_POWER-1
+Added Net: Name=12V
+Added Pin To Net: NetName=IN+ Pin=JP_POWER-4
+Added Pin To Net: NetName=IN+ Pin=MD_JETSON-0
+Added Net: Name=IN+
+Added Pin To Net: NetName=NetJDC_MOTOR_1 Pin=JDC_MOTOR-1
+Added Pin To Net: NetName=NetJDC_MOTOR_1 Pin=JP_POWER-2
+Added Net: Name=NetJDC_MOTOR_1
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JDC_JETSON Jac DC
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JDC_MOTOR Jac DC
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_5V JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_12V JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_FAN JP2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_GND1 JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_GND JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_POWER JP6
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component MD_JETSON Adjust Voltage (5A)
+Added Room: Name=Lidar_Robot_Power

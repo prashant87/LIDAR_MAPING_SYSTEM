@@ -1,0 +1,17 @@
+Conversion Report:
+Created by DWG TrueView DWG Convert 24 March 2020, 14:37.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2013/LT 2013 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     2
+Recovered DWG files:     0
+Conversion errors:       0
+
+
+Converted Files
+---------------
+Root Drawings:
+	D:\\U+0110\U+1ED3 án 2\autocad\mo hinh vat can.dwg
+	D:\\U+0110\U+1ED3 án 2\autocad\Banh rang.dwg

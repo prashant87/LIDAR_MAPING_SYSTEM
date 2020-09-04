@@ -1,0 +1,21 @@
+Added Component: Designator=HD_5V(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=TB(SHIELD_ARDUINO_NANO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20NANO/Arduino/view-part/1128261/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=HD_5V-2
+Added Pin To Net: NetName=5V Pin=TB-30
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=HD_5V-1
+Added Pin To Net: NetName=GND Pin=TB-4
+Added Pin To Net: NetName=GND Pin=TB-29
+Added Net: Name=GND
+Added Class: Name=Secondary_MCU_Lidar_Robot
+Added Room: Name=Secondary_MCU_Lidar_Robot

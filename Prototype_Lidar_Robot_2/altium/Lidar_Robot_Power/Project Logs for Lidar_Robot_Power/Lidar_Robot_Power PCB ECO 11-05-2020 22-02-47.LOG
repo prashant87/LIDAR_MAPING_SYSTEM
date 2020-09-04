@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=12V Pin=HD_POWER-1
+Removed Pin From Net: NetName=GND Pin=HD_POWER-2
+Removed Pin From Net: NetName=5V Pin=HD_POWER-3
+Removed Pin From Net: NetName=GND Pin=JP_FAN-1
+Removed Pin From Net: NetName=12V Pin=JP_FAN-2
+Removed Pin From Net: NetName=12V Pin=JP_POWER-1
+Removed Pin From Net: NetName=IN+ Pin=JP_POWER-4
+Removed Member From Class: ClassName=Lidar_Robot_Power Member=HD_POWER
+Added Component: Designator=HD_5V(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD_12V(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP_V1(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP_V2(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD_5V-1
+Added Pin To Net: NetName=5V Pin=HD_5V-2
+Added Pin To Net: NetName=GND Pin=HD_12V-1
+Added Pin To Net: NetName=12V Pin=HD_12V-2
+Added Pin To Net: NetName=12V Pin=JP_FAN-1
+Added Pin To Net: NetName=GND Pin=JP_FAN-2
+Added Pin To Net: NetName=12V Pin=JP_POWER-3
+Added Pin To Net: NetName=IN+ Pin=JP_POWER-6
+Added Pin To Net: NetName=GND Pin=JP_V1-1
+Added Pin To Net: NetName=IN+ Pin=JP_V1-2
+Added Pin To Net: NetName=GND Pin=JP_V2-1
+Added Pin To Net: NetName=12V Pin=JP_V2-2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component HD_5V Header 2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component HD_12V Header 2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_V1 JP2
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_V2 JP2
+Added Room: Name=Lidar_Robot_Power

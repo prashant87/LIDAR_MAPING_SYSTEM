@@ -1,0 +1,7 @@
+Added Component: Designator=HD_POWER(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=HD_POWER-1
+Added Pin To Net: NetName=GND Pin=HD_POWER-2
+Added Pin To Net: NetName=5V Pin=HD_POWER-3
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component HD_POWER Header 3

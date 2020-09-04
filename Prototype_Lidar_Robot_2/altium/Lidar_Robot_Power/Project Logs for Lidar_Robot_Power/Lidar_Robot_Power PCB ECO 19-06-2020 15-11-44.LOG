@@ -1,0 +1,6 @@
+Added Component: Designator=USB1(USB-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "USB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component USB1 USB-S
+Added Room: Name=Lidar_Robot_Power

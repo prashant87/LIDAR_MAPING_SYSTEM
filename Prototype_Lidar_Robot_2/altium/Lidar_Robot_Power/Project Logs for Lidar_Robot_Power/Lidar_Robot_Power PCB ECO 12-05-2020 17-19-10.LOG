@@ -1,0 +1,10 @@
+Added Component: Designator=JP_GND2(CON5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP_GND2-1
+Added Pin To Net: NetName=GND Pin=JP_GND2-2
+Added Pin To Net: NetName=GND Pin=JP_GND2-3
+Added Pin To Net: NetName=GND Pin=JP_GND2-4
+Added Pin To Net: NetName=GND Pin=JP_GND2-5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_GND2 JP5
+Added Room: Name=Lidar_Robot_Power

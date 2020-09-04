@@ -1,0 +1,3 @@
+Added Component: Designator=SD?(DIPSWITCH4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW - DIP4"; VariantName = "[No Variations]"

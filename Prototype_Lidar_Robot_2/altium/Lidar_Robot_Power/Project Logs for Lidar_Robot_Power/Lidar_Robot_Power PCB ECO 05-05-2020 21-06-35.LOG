@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_5V
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_12V
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_GND
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_GND1
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_12V JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_GND1 JP5
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component JP_GND JP5

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IN+ Pin=MD_JETSON-0
+Removed Pin From Net: NetName=GND Pin=MD_JETSON-1
+Removed Pin From Net: NetName=5V Pin=MD_JETSON-2
+Removed Pin From Net: NetName=GND Pin=MD_JETSON-3
+Change Component Footprint: Designator=MD_JETSON Old Footprint=XL4005 New Footprint=XL4016
+Change Component Comment : Designator=MD_JETSON Old Comment=Adjust Voltage (5A) New Comment=Adjust Voltage (8A)
+Added Component: Designator=USB_JETSON(USB SOCKET TYPE A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB_LIDAR(USB SOCKET TYPE A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MD_JETSON-0
+Added Pin To Net: NetName=IN+ Pin=MD_JETSON-1
+Added Pin To Net: NetName=GND Pin=MD_JETSON-2
+Added Pin To Net: NetName=5V Pin=MD_JETSON-3
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component USB_JETSON SOCKET_JETSON
+Added Member To Class: ClassName=Lidar_Robot_Power Member=Component USB_LIDAR SOCKET_LIDAR
+Added Room: Name=Lidar_Robot_Power

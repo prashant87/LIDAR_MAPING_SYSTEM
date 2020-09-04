@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=USB_LIDAR-1
+Removed Pin From Net: NetName=NetUSB_JETSON_2 Pin=USB_LIDAR-2
+Removed Pin From Net: NetName=NetUSB_JETSON_3 Pin=USB_LIDAR-3
+Removed Pin From Net: NetName=GND Pin=USB_LIDAR-4
+Removed Member From Class: ClassName=Lidar_Robot_Power Member=USB_LIDAR
+Change Component Footprint: Designator=USB_JETSON Old Footprint=USB SOCKET TYPE A New Footprint=USB-A
+Change Component Comment : Designator=USB_JETSON Old Comment=SOCKET_JETSON New Comment=USB-S
+Change Component Designator: OldDesignator=USB1 NewDesignator=USB_LIDAR
+Change component parameters: Designator = "USB_JETSON"; Footprint = "USB-A"; UniqueID = "\KMMQQIWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "USB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=USB_LIDAR-1
+Added Pin To Net: NetName=NetUSB_JETSON_2 Pin=USB_LIDAR-2
+Added Pin To Net: NetName=NetUSB_JETSON_3 Pin=USB_LIDAR-3

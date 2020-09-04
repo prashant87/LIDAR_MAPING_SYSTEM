@@ -1,0 +1,79 @@
+Added Component: Designator=A(ARDUINO_MEGA2560_REV3_-_RETAIL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO MEGA2560 REV3 - RETAIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20MEGA2560%20REV3%20-%20RETAIL/Arduino/view-part/1128250/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H_Bridge1(XY-160D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HD_5V(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP_MOTOR_ENCODER(CON4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=P_H_BRIDGE(HDR2X5_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TB(SHIELD_ARDUINO_NANO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20NANO/Arduino/view-part/1128261/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=H_Bridge1-1
+Added Pin To Net: NetName=M1_1 Pin=H_Bridge1-3
+Added Pin To Net: NetName=M1_2 Pin=H_Bridge1-4
+Added Pin To Net: NetName=GND Pin=H_Bridge1-5
+Added Pin To Net: NetName=5V Pin=H_Bridge1-6
+Added Pin To Net: NetName=M2_1 Pin=H_Bridge1-8
+Added Pin To Net: NetName=M2_2 Pin=H_Bridge1-9
+Added Pin To Net: NetName=GND Pin=H_Bridge1-10
+Added Pin To Net: NetName=GND Pin=HD_5V-1
+Added Pin To Net: NetName=5V Pin=HD_5V-2
+Added Pin To Net: NetName=C2/B2 Pin=JP_MOTOR_ENCODER-1
+Added Pin To Net: NetName=C1/A2 Pin=JP_MOTOR_ENCODER-2
+Added Pin To Net: NetName=C2/B1 Pin=JP_MOTOR_ENCODER-3
+Added Pin To Net: NetName=C1/A1 Pin=JP_MOTOR_ENCODER-4
+Added Pin To Net: NetName=5V Pin=P_H_BRIDGE-1
+Added Pin To Net: NetName=M1_1 Pin=P_H_BRIDGE-3
+Added Pin To Net: NetName=M1_2 Pin=P_H_BRIDGE-4
+Added Pin To Net: NetName=GND Pin=P_H_BRIDGE-5
+Added Pin To Net: NetName=5V Pin=P_H_BRIDGE-6
+Added Pin To Net: NetName=M2_1 Pin=P_H_BRIDGE-8
+Added Pin To Net: NetName=M2_2 Pin=P_H_BRIDGE-9
+Added Pin To Net: NetName=GND Pin=P_H_BRIDGE-10
+Added Pin To Net: NetName=GND Pin=TB-4
+Added Pin To Net: NetName=C1/A2 Pin=TB-5
+Added Pin To Net: NetName=C1/A1 Pin=TB-6
+Added Pin To Net: NetName=C2/B2 Pin=TB-7
+Added Pin To Net: NetName=M2_1 Pin=TB-10
+Added Pin To Net: NetName=C2/B1 Pin=TB-11
+Added Pin To Net: NetName=M2_2 Pin=TB-14
+Added Pin To Net: NetName=M1_1 Pin=TB-15
+Added Pin To Net: NetName=M1_2 Pin=TB-16
+Added Pin To Net: NetName=GND Pin=TB-29
+Added Pin To Net: NetName=5V Pin=TB-30
+Added Pin To Net: NetName=PWM1 Pin=H_Bridge1-2
+Added Pin To Net: NetName=PWM1 Pin=P_H_BRIDGE-2
+Added Pin To Net: NetName=PWM1 Pin=TB-9
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=H_Bridge1-7
+Added Pin To Net: NetName=PWM2 Pin=P_H_BRIDGE-7
+Added Pin To Net: NetName=PWM2 Pin=TB-8
+Added Net: Name=PWM2
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component A ARDUINO_MEGA2560_REV3_-_RETAIL
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component H_Bridge1 H_Bridge
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component HD_5V Header 2
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component JP_MOTOR_ENCODER JP4
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component P_H_BRIDGE Header 5X2A
+Added Member To Class: ClassName=Secondary_MCU_Lidar_Robot Member=Component TB ARDUINO_NANO
+Added Room: Name=Secondary_MCU_Lidar_Robot
